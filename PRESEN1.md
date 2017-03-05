@@ -63,8 +63,8 @@ lagrima clara de primavera
 ___
 <img src="gatob.jpg">
 <!-- .slide: data-background="#55CCEE" -->
----<img src="gatob.jpg">
-<!-- .slide: data-background="#9bc32f" ---
+<img src="gatob.jpg">
+<!-- .slide: data-background="#9bc32f" -->
 ___
 [***énfasis*** (cursiva)]
 ---
@@ -81,7 +81,7 @@ ___
 La vida es muy corta para aprender Alemán. -Tad Marburg
 
 <!-- .slide: data-background="#eeee00" -->
-___<img src="gatob.jpg">
+<img src="gatob.jpg">
 
 Quien no sabe llevar su contabilidad por espacio de tres mil años es un ignorante y solo vive al dia. - L. W. Goethe
 <!-- .slide: data-background="#fff000" -->
