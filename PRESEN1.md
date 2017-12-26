@@ -70,11 +70,10 @@ ___
 ---
 <!-- .slide: data-background="#ff3333" -->
 <!-- .slide: data-background="#ffff11" -->
-### Encabezado h1
 <!-- .slide: data-background="#f900c1" -->
-# La alegria esta en el alma y no en la edad
-# todos llevamos por dentro ese niño que no
-# deberiamos ocultar nunca.
+## La alegria esta en el alma y no en la edad
+## todos llevamos por dentro ese niño que no
+## deberiamos ocultar nunca.
 <!-- .slide: data-background="#00ff44" -->
 ---
 La vida es muy corta para aprender Alemán. -Tad Marburg
@@ -86,7 +85,6 @@ Quien no sabe llevar su contabilidad por espacio de tres mil años es un ignoran
 <!-- .slide: data-background="#fff000" -->
 ---
 <!-- .slide: data-background="#ff4444" -->
-*** FGDGJKJGKLÑ***
 <img src="gatob.jpg">
 
 ---
