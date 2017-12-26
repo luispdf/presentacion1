@@ -70,9 +70,9 @@ ___
 ---
 <!-- .slide: data-background="#ff3333" -->
 <!-- .slide: data-background="#ffff11" -->
-### Encabezado h6
+### Encabezado h1
 <!-- .slide: data-background="#f900c1" -->
-# Encabezado h6
+# Encabezado h1
 
 # Citas
 # No dejes para mañana lo que puedas hacer hoy.
