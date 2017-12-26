@@ -70,12 +70,12 @@ ___
 ---
 <!-- .slide: data-background="#ff3333" -->
 <!-- .slide: data-background="#ffff11" -->
-### Encabezado h3
+### Encabezado h6
 <!-- .slide: data-background="#f900c1" -->
-# Encabezado h3
+# Encabezado h6
 
 # Citas
-# CON SOFIA LOREN A LAS 10H
+# No dejes para mañana lo que puedas hacer hoy.
 <!-- .slide: data-background="#00ff44" -->
 ---
 La vida es muy corta para aprender Alemán. -Tad Marburg
