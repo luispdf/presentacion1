@@ -74,8 +74,9 @@ ___
 <!-- .slide: data-background="#f900c1" -->
 # Encabezado h1
 
-# Citas
-# No dejes para mañana lo que puedas hacer hoy.
+# La alegria esta en el alma y no en la edad
+# todos llevamos por dentro ese niño que no
+# deberiamos ocultar nunca.
 <!-- .slide: data-background="#00ff44" -->
 ---
 La vida es muy corta para aprender Alemán. -Tad Marburg
