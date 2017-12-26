@@ -76,8 +76,6 @@ ___
 ## deberiamos ocultar nunca.
 <!-- .slide: data-background="#00ff44" -->
 ---
-La vida es muy corta para aprender Alemán. -Tad Marburg
-
 <!-- .slide: data-background="#eeee00" -->
 <img src="gatob.jpg">
 
