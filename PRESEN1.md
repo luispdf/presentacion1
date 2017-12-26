@@ -1,6 +1,6 @@
 ### PRESENTACION   1
 <img src="felicesfiestas.png">
-                  MI GATO HACE MIAU MIAU... EL GATO QUE ESTA TRISTE Y AZUL                  
+                   EL GATO QUE ESTA TRISTE Y AZUL                  
     Cuando era un chiquillo que alegría<!-- .slide: data-background="#55CCEE" -->
     jugando a la guerra noche y día<!-- .slide: data-background="#55CCEE" -->
     saltando una verja verte a ti<!-- .slide: data-background="#55CCEE" -->
